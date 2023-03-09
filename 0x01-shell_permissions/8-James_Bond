@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod u+___ g+___ o+rwx
+chmod 007
